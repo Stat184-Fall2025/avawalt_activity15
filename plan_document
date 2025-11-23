@@ -1,0 +1,23 @@
+#Goals
+1. Simply and clearly display the contents of Activity #14
+
+#Needs
+1. README File
+2. A dev Branch
+3. A Main
+4. Issues (2) (closed)
+5. Activity #14 QMD File
+6. Activity #14 PDF File
+7. Plan Document
+
+#Steps
+1. Create a main and dev branch
+2. Merge the dev and main branches
+3. Upload Activity #14 QMD File
+4. Upload Activity #14 PDF File
+5. Create and upload this plan document
+6. Create and close 2 issues
+7. Create clear commit messages along the way to document process
+
+#Maintenance
+Using clear commits and issues that show the process for tasks and any problems that may occur. Simple maintenance of checking in on the repo and adding any additional information that may have been forgotten is essential.
