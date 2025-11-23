@@ -1,5 +1,5 @@
 # avawalt_activity15
-Github practice through the completion of Activity #15
+Github practice through the completion of Activity #15 using Activity #14
 
 ## Information
 What the repo/project is about? We are displaying the contents of Activity #14 in a simplistic way for understanding.
